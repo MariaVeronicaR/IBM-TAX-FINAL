@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ibm", "IvannaMCVNetCore\Ibm.csproj", "{1371D043-0211-4FFB-91B4-B179999988D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1371D043-0211-4FFB-91B4-B179999988D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1371D043-0211-4FFB-91B4-B179999988D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1371D043-0211-4FFB-91B4-B179999988D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1371D043-0211-4FFB-91B4-B179999988D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CACF7A6-38EF-44AC-944A-27D6D8C016E9}
+	EndGlobalSection
+EndGlobal
